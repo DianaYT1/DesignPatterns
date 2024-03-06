@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\Shabloni\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\John\Desktop\Shabloni\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\John\Desktop\Shabloni\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\John\Desktop\Shabloni\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\Shabloni\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\Shabloni\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\John\Desktop\Shabloni\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
