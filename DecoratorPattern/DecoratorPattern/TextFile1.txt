@@ -1,2 +1,0 @@
-﻿Inharitance is not for code reuse, not for sharing behavior.
-Use composition in order to share behavior
