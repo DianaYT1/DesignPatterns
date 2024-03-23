@@ -1,7 +1,0 @@
-C:\Users\Sasho\Desktop\Daya\DecoratorPattern\PizzaDecoratorPatternExample\bin\Debug\PizzaDecoratorPatternExample.exe.config
-C:\Users\Sasho\Desktop\Daya\DecoratorPattern\PizzaDecoratorPatternExample\bin\Debug\PizzaDecoratorPatternExample.exe
-C:\Users\Sasho\Desktop\Daya\DecoratorPattern\PizzaDecoratorPatternExample\bin\Debug\PizzaDecoratorPatternExample.pdb
-C:\Users\Sasho\Desktop\Daya\DecoratorPattern\PizzaDecoratorPatternExample\obj\Debug\PizzaDecoratorPatternExample.csproj.AssemblyReference.cache
-C:\Users\Sasho\Desktop\Daya\DecoratorPattern\PizzaDecoratorPatternExample\obj\Debug\PizzaDecoratorPatternExample.csproj.CoreCompileInputs.cache
-C:\Users\Sasho\Desktop\Daya\DecoratorPattern\PizzaDecoratorPatternExample\obj\Debug\PizzaDecoratorPatternExample.exe
-C:\Users\Sasho\Desktop\Daya\DecoratorPattern\PizzaDecoratorPatternExample\obj\Debug\PizzaDecoratorPatternExample.pdb
