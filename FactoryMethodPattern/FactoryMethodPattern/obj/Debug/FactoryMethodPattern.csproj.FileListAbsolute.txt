@@ -1,0 +1,7 @@
+C:\Users\John\Desktop\DesignPatterns-main\30DaysPatterns\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe.config
+C:\Users\John\Desktop\DesignPatterns-main\30DaysPatterns\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.exe
+C:\Users\John\Desktop\DesignPatterns-main\30DaysPatterns\FactoryMethodPattern\FactoryMethodPattern\bin\Debug\FactoryMethodPattern.pdb
+C:\Users\John\Desktop\DesignPatterns-main\30DaysPatterns\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.AssemblyReference.cache
+C:\Users\John\Desktop\DesignPatterns-main\30DaysPatterns\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\DesignPatterns-main\30DaysPatterns\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.exe
+C:\Users\John\Desktop\DesignPatterns-main\30DaysPatterns\FactoryMethodPattern\FactoryMethodPattern\obj\Debug\FactoryMethodPattern.pdb
